@@ -2,7 +2,6 @@
 
 - 👩🏾‍💻 Hoje trabalho com mobile front-end
 - 🌱 Estudando Dart/Flutter
-- 🎨 Desenhando digitalmente
 - 👩🏾 Pronomes: Ela/Dela
 - ⚡ Curiosidade: Sou apaixonada por gatos 🐈‍⬛
 
